@@ -1,0 +1,9 @@
+com\mycompany\jsf_mat\modelo\CBDD.class
+com\mycompany\jsf_mat\acceso\Productos.class
+com\mycompany\jsf_mat\acceso\Clientes.class
+com\mycompany\jsf_mat\servlet\UsuariosServlet.class
+com\mycompany\jsf_mat\acceso\Proveedores.class
+com\mycompany\jsf_mat\acceso\Usuarios.class
+com\mycompany\jsf_mat\servlet\ClientesServlet.class
+com\mycompany\jsf_mat\servlet\ProductosServlet.class
+com\mycompany\jsf_mat\servlet\ProveedoresServlet.class
